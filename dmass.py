@@ -6,7 +6,7 @@ import asyncio
 import platform
 import colorsys
 import random
-import time 24*7
+import time 
 
 client = commands.Bot(command_prefix = '+', case_insensitive=True)
 Client = discord.client
